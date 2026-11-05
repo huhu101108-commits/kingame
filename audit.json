@@ -1,0 +1,12 @@
+{
+  "version": "2.1.0",
+  "nodes": 16,
+  "individual_choices": 32,
+  "reachable_nodes": 16,
+  "reachable_edges": 32,
+  "total_paths": 49152,
+  "errors": [],
+  "source_articles_unique": 13,
+  "source_article_checked_against_web": 13,
+  "note": "기사별 국역 본문을 읽어 사건의 사실관계와 연대기를 대조했다. 선택지는 기록된 실제 결정이 아닌 가상 대안. 탄생·왕자 교육은 후대 자료에 기댄 창작 장면."
+}
